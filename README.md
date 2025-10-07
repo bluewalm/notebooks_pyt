@@ -31,9 +31,8 @@ Use a browser to open the appropriate link it gives. Make sure to replace `hostn
 
 ## Changelog
 
-October 07, 2025
-    * Initial release
+October 07, 2025 * Initial release *
 
 ## Known issues
 
-    * None
+    * None *
